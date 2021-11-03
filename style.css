@@ -553,12 +553,15 @@ body {
     background:none
     }
     
-    h1,h2,h3,h4,h5,h6,p,label,.btn,a {
+    h1,,h3,h4,h5,h6,p,label,.btn,a {
     font-family:"helvetica";
     font-weight:400;
     color:#575757!important
     }
-    
+    h2
+    {
+        color: white;
+    }
     .container {
     max-width:1000px
     }
@@ -582,7 +585,7 @@ body {
     }
     
     p {
-    font-size:11px
+    font-size:1em
     }
     
     .tight-width-whitespace {
@@ -727,7 +730,7 @@ body {
     }
     
     .bg-presentation {
-    background-image:url(img/image-de-presentation.bmp)
+    background-image:url(img/image-de-presentation.jpg)
     }
     
     @media (max-width: 1024px) {
