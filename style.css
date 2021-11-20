@@ -646,7 +646,9 @@ body {
     .white {
     color:#FFF!important
     }
-    
+    .black {
+        color:black!important
+        }
     .portfolio-thumb {
     margin-bottom:24px
     }
@@ -688,12 +690,12 @@ body {
     
     .btn-atomic-tangerine {
     background:#F3976C;
-    color:#FFF!important
+    color:black!important
     }
     
     .btn-atomic-tangerine:hover {
     background:#c27956!important;
-    color:#FFF!important
+    color:black!important
     }
     
     .ltc-white {
